@@ -2,7 +2,7 @@
 
 ## Environment Setup
 
-This repository contains the setup for the solar challenge project.
+This repository contains the setup for the solar challenge project
 
 ### Prerequisites
 
